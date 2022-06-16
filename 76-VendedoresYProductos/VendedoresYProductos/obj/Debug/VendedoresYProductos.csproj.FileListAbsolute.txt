@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\VendedoresYProductos\VendedoresYProductos\bin\Debug\VendedoresYProductos.exe
+C:\Users\tauro\Desktop\VendedoresYProductos\VendedoresYProductos\bin\Debug\VendedoresYProductos.pdb
+C:\Users\tauro\Desktop\VendedoresYProductos\VendedoresYProductos\obj\Debug\VendedoresYProductos.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\VendedoresYProductos\VendedoresYProductos\obj\Debug\VendedoresYProductos.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\VendedoresYProductos\VendedoresYProductos\obj\Debug\VendedoresYProductos.exe
+C:\Users\tauro\Desktop\VendedoresYProductos\VendedoresYProductos\obj\Debug\VendedoresYProductos.pdb
